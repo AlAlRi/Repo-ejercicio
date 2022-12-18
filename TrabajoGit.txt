@@ -1,5 +1,5 @@
 FuncionParte1{
-	codigo...
+	Jander an glever morenauer.
 }
 
 FuncionParte2{
